@@ -1,5 +1,5 @@
 # GPT_SoVits-ECNU-llm
-采用ECNU大模型（采用其他openai api接口同样可以使用）做的一个pyhton对话智能体，Prompt可以修改
+调用ECNU大模型api（照使用文档上说使用类似openai的api应该都可以）做的一个pyhton对话智能体，Prompt可以修改
 
 # 使用说明
 1.如若需要采用GPT—Sovits的模型，需要在后台打开GPT—Sovits的API接口，我采用的是在GPT—Sovits根目录下添加了一个api.bat(编辑方式参考go-webui.bat),打开即可使用
