@@ -4,12 +4,14 @@
 # 使用说明
 1.如若需要采用GPT—Sovits的模型，需要在后台打开GPT—Sovits的API接口，我采用的是在GPT—Sovits根目录下添加了一个api.bat(编辑方式参考go-webui.bat),打开即可使用
 
+不使用GPT—Sovits的话，使用时不要用GPT—Sovits—TTS合成方式
+
 2.GPT—Sovits设置了超时关闭（30s内语音未合成自动取消），设置超时限制的时间在tts_client.py中_use_custom_tts函数中
 
 3.可以考虑使用高校发放的大模型api
 
 # 不足之处
-1.处女之作，很多地方还是ai完成的，对于api的调用也是一知半解，望谅解
+1.情急之下做个demo，写的比较乱，望谅解
 
 2.GPT—Sovits超时关闭后无法再次合成语音，需要重启
 
