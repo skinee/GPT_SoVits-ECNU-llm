@@ -1,4 +1,4 @@
-# GPT_SoVits-ECNU-llm
+# GPT_SoVits-xxxU-llm
 调用ECNU大模型api（照使用文档上说使用类似openai的api应该都可以）做的一个pyhton对话智能体，Prompt可以修改
 
 # 使用说明
